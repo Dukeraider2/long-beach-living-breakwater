@@ -43,12 +43,14 @@ All dimensions, material specifications, attachment systems, costs, and performa
 ## Repository map
 
 - `docs/preliminary-engineering-concept.md` — scope, design options, feasibility questions, and work plan
+- `docs/okinawa-to-long-beach-evidence-review.md` — source-backed comparison of Okinawa research and Long Beach restoration planning
 - `docs/environmental-risk-register.md` — preliminary risks and proposed mitigations
 - `docs/pilot-program-and-budget.md` — staged pilot and cost-estimation framework
 - `references/source-register.md` — starting points for authoritative project records
 
 ## Initial references
 
+- [Okinawa breakwater study (Tanaya et al., 2021)](https://doi.org/10.1080/21664250.2021.1889823)
 - [USACE: East San Pedro Bay Ecosystem Restoration Study](https://www.spl.usace.army.mil/Missions/Civil-Works/Projects-and-Studies/East-San-Pedro-Bay-Ecosystem-Restoration-Study/)
 - [City of Long Beach: Bay Ecosystem Study](https://www.longbeach.gov/citymanager/tidelands/bay-ecosystem-study/)
 
