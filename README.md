@@ -42,11 +42,13 @@ All dimensions, material specifications, attachment systems, costs, and performa
 
 ## Repository map
 
-- `docs/preliminary-engineering-concept.md` — scope, design options, feasibility questions, and work plan
-- `docs/okinawa-to-long-beach-evidence-review.md` — source-backed comparison of Okinawa research and Long Beach restoration planning
-- `docs/environmental-risk-register.md` — preliminary risks and proposed mitigations
-- `docs/pilot-program-and-budget.md` — staged pilot and cost-estimation framework
-- `references/source-register.md` — starting points for authoritative project records
+- `docs/preliminary-engineering-concept.md` - scope, design options, feasibility questions, and work plan
+- `docs/okinawa-to-long-beach-evidence-review.md` - source-backed comparison of Okinawa research and Long Beach restoration planning
+- `docs/candidate-site-screening.md` - candidate-zone screening, data requirements, exclusion rules, and decision gates
+- `docs/conceptual-habitat-module-design-basis.md` - preliminary module requirements, material options, failure analysis, and test sequence
+- `docs/environmental-risk-register.md` - preliminary risks and proposed mitigations
+- `docs/pilot-program-and-budget.md` - staged pilot and cost-estimation framework
+- `references/source-register.md` - starting points for authoritative project records
 
 ## Initial references
 
